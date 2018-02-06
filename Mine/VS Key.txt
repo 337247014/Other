@@ -1,0 +1,46 @@
+Team Foundation Server 2015 Update 2.1		CGXKN-MHVPF-BXRJR-KPD28-MTDWP	Static		
+Team Foundation Server 2015 Update 3		CGXKN-MHVPF-BXRJR-KPD28-MTDWP	Static		
+Team Foundation Server 2015 Update 4		CGXKN-MHVPF-BXRJR-KPD28-MTDWP	Static
+
+
+Visual Studio 2010 Professional		YCFHQ-9DWCY-DKV88-T2TMH-G7BHP	Static
+Visual Studio Professional 2012		4D974-9QX42-9Y43G-YJ7JG-JDYBP	Static		
+Visual Studio Professional 2013		BBJ4B-WBV7Q-DFHJG-G97DD-GXXKR	Static		
+Visual Studio Professional 2013 with Update 2		BBJ4B-WBV7Q-DFHJG-G97DD-GXXKR	Static		
+Visual Studio Professional 2013 with Update 3		BBJ4B-WBV7Q-DFHJG-G97DD-GXXKR	Static		
+Visual Studio Professional 2013 with Update 4		BBJ4B-WBV7Q-DFHJG-G97DD-GXXKR	Static		
+Visual Studio Professional 2013 with Update 5		BBJ4B-WBV7Q-DFHJG-G97DD-GXXKR	Static
+Visual Studio Professional 2015			        QD6NW-YHTXD-46XMR-4XPP6-D3WR2	Retail
+Visual Studio Professional 2015 with Update 1	        QD6NW-YHTXD-46XMR-4XPP6-D3WR2	Retail		
+Visual Studio Professional 2015 with Update 2		QD6NW-YHTXD-46XMR-4XPP6-D3WR2	Retail	
+Visual Studio Professional 2015 with Update 3		QD6NW-YHTXD-46XMR-4XPP6-D3WR2	Retail	
+Visual Studio Professional 2017 (version 15.0)		JYQNF-TVCHW-BH769-87PMK-3RTXV	Retail	
+Visual Studio Professional 2017 (version 15.5)		JYQNF-TVCHW-BH769-87PMK-3RTXV	Retail	
+
+
+Visual Studio Express 2012
+Visual Studio Express 2012 for Windows 8		YCX46-9PQR6-YKMC9-2B8KQ-6CDHX	Static		
+Visual Studio Express 2012 for Web		        BWVK8-FD442-K2GCM-98B84-J8WRV	Static		
+Visual Studio Express 2012 for Windows Desktop		YDF6K-W7M6M-WT2G4-R474C-Y8CQF	Static
+
+
+Visual Studio Team Explorer Everywhere 2010		7W3RJ-4WX3R-BV8JM-FC8P7-3W7QX	Static		
+Visual Studio Team Foundation Server 2010		P2K4R-VPKVK-TKH4B-TRT6V-DW2GX	Static		
+Visual Studio Team Foundation Server 2012		BVGTF-T7MVR-TP46H-9Q97G-XBXRB	Static		
+Visual Studio Team Foundation Server 2012 with Update 2		BVGTF-T7MVR-TP46H-9Q97G-XBXRB		
+Visual Studio Team Foundation Server 2012 with Update 3		BVGTF-T7MVR-TP46H-9Q97G-XBXRB		
+Visual Studio Team Foundation Server 2012 with Update 4		BVGTF-T7MVR-TP46H-9Q97G-XBXRB		
+Visual Studio Team Foundation Server 2013		MHG9J-HHHX9-WWPQP-D8T7H-7KCQG	Static		
+Visual Studio Team Foundation Server 2013 with Update 2		MHG9J-HHHX9-WWPQP-D8T7H-7KCQG		
+Visual Studio Team Foundation Server 2013 with Update 3		MHG9J-HHHX9-WWPQP-D8T7H-7KCQG		
+Visual Studio Team Foundation Server 2013 with Update 4		MHG9J-HHHX9-WWPQP-D8T7H-7KCQG		
+Visual Studio Team Foundation Server 2013 with Update 5		MHG9J-HHHX9-WWPQP-D8T7H-7KCQG		
+Visual Studio Team Foundation Server 2015		CGXKN-MHVPF-BXRJR-KPD28-MTDWP	Static		
+Visual Studio Team Foundation Server 2015 Update 1	CGXKN-MHVPF-BXRJR-KPD28-MTDWP			
+Visual Studio Team Foundation Server Express 2012	7PDGX-K8G48-99T9W-BDRH2-BG2XK			
+Visual Studio Team Foundation Server Express 2012 with Update 2	    7PDGX-K8G48-99T9W-BDRH2-BG2XK			
+Visual Studio Team Foundation Server Express 2012 with Update 3		7PDGX-K8G48-99T9W-BDRH2-BG2XK	Static		
+Visual Studio Team Foundation Server Express 2012 with Update 4		7PDGX-K8G48-99T9W-BDRH2-BG2XK	Static		
+Visual Studio.NET Enterprise Architect		D64GG-GXY6T-V6FTR-WCPBB-2YDYB	Static		
+Visual Studio.NET Enterprise Developer		D64GG-GXY6T-V6FTR-WCPBB-2YDYB	Static		
+Visual Studio.NET Professional		D64GG-GXY6T-V6FTR-WCPBB-2YDYB	Static
